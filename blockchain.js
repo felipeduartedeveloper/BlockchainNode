@@ -13,4 +13,4 @@ class Blockchain{
   }
 }
 
-module.exports = blockchain;
+module.exports = Blockchain;
